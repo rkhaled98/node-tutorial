@@ -1,4 +1,4 @@
-// file: export_object.js
+
 module.exports = {
 name: 'emanuele',
 surname: 'delbono',
